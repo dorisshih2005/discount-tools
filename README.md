@@ -75,7 +75,7 @@ See [ARCHITECTURE.md](docs/ARCHITECTURE.md) for detailed technical architecture.
 
 ### Setup
 \`\`\`bash
-git clone https://github.com/yourusername/discount-tools.git
+git clone https://github.com/famiya/discount-tools.git
 cd discount-tools
 composer install --dev
 npm install
